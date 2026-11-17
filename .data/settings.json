@@ -1,5 +1,5 @@
 {
-  "imageMethodModel": "",
+  "imageMethodModel": "note-gen-chat",
   "commitModel": "note-gen-chat",
   "giteaInstanceType": "gitea.com",
   "editorContentWidth": "full",
